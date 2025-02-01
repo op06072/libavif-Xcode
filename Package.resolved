@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "libaom",
-        "repositoryURL": "https://github.com/SDWebImage/libaom-Xcode.git",
+        "repositoryURL": "https://github.com/op06072/libaom-Xcode.git",
         "state": {
-          "branch": null,
-          "revision": "482cafbebbc5f32378b82339b7580761fab4fd23",
-          "version": "2.0.2"
+          "branch": "aomV3",
+          "revision": "0e2efed2b708abb2e7ca9f172da1ca0d7289d291",
+          "version": null
         }
       },
       {
@@ -17,6 +17,15 @@
           "branch": null,
           "revision": "26544e92506764862358ce2198ddab9af7685ed5",
           "version": "2.2.0"
+        }
+      },
+      {
+        "package": "libyuv",
+        "repositoryURL": "https://github.com/awxkee/libyuv.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "810842f196c65b77a39c2f32080225166b0e8f87",
+          "version": "1.1.0"
         }
       }
     ]

@@ -1,3 +1,6 @@
 [submodule "avif"]
 	path = avif
 	url = https://github.com/AOMediaCodec/libavif.git
+[submodule "ComplianceWarden"]
+	path = ComplianceWarden
+	url = https://github.com/gpac/ComplianceWarden.git
