@@ -3,4 +3,4 @@
 	url = https://github.com/op06072/libavif.git
 [submodule "ComplianceWarden"]
 	path = ComplianceWarden
-	url = https://github.com/op06072/ComplianceWarden.git
+	url = https://github.com/gpac/ComplianceWarden.git
