@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/op06072/libaom-Xcode.git",
         "state": {
           "branch": "aomV3",
-          "revision": "0e2efed2b708abb2e7ca9f172da1ca0d7289d291",
+          "revision": "5425ccb384ccf1fb36f2975b39ea3229da36add9",
           "version": null
         }
       },
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SDWebImage/libvmaf-Xcode.git",
         "state": {
           "branch": null,
-          "revision": "26544e92506764862358ce2198ddab9af7685ed5",
-          "version": "2.2.0"
+          "revision": "9b116c9bd6e292a5564119915ba4a074085ea979",
+          "version": "2.3.0"
         }
       },
       {
