@@ -27,6 +27,7 @@ let package = Package(
         .target(
             name: "complianceWarden",
             path: "ComplianceWarden",
+            exclude: ["src/app/cw.cpp"],
             sources: ["src"],
             publicHeadersPath: "src",
             cSettings: [
