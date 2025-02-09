@@ -55,6 +55,11 @@ let package = Package(
                 .define("AVIF_ENABLE_EXPERIMENTAL_SAMPLE_TRANSFORM", to: "1"),
             ]
         ),
+        .testTarget(
+            name: "libavifTests",
+            dependencies: ["libavif"],
+            path: "libavifExample"
+        ),
     ],
     cLanguageStandard: .gnu11,
     cxxLanguageStandard: .gnucxx14
